@@ -28,3 +28,7 @@ Neste repositório, estão dispostos os materiais produzidos pela Diretoria de I
     * Anotações
     * Slides
     * Aplicação
+    
+* **[Random Forest](https://github.com/TailUFPB/DiretoriaIA/blob/master/algoritmos_classicos/Random%20Forest)**
+    * Slides
+    * Aplicação
